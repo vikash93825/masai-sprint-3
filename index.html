@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style_1.css">
+    <title>Quiz</title>
+</head>
+<body>
+    <div id="main">
+        <div id="heading">
+            <h1>QUIZ</h1>
+        </div>
+        <div id="cont">
+            <form>
+                <div>
+                    Number of question:
+                    <input type="text" name="questions" required>
+                </div>
+                <div>
+                    Select category:
+                    <select id="category" name="category">
+                        <option value="">Any category</option>
+                        <option value="9">General knowledge</option>
+                        <option value="18">Computers</option>
+                        <option value="23">History</option>
+                        <option value="21">Sports</option>
+                        <option value="17">Nature</option>
+                    </select>
+                </div>
+                <div>
+                    Difficulty Level:
+                    <select id="level" name="difficulty">
+                        <option value="">Any Difficulty</option>
+                        <option value="easy">Easy</option>
+                        <option value="medium">Medium</option>
+                        <option value="hard">Hard</option>
+                    </select>
+                </div>
+                <div>
+                    <input type="submit" value="create" id="button">
+                </div>
+            </form>
+        </div>
+    </div>
+    
+    <script text="text/javascript" src="index.js"></script>
+</body>
+</html>
