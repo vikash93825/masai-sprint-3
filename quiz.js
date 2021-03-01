@@ -85,7 +85,7 @@ function handleQuiz(data) {
             hideResult(questions);
         }
         //console.log(displayCorrect)
-        displayList()
+       
     });
 
 }
