@@ -6,7 +6,7 @@
 * Javascript
 
 ### API
-   https://opentdb.com/api.php
+   https://opentdb.com
 
 ### Home Page
 ![Screenshot from 2021-03-01 11-17-27](https://user-images.githubusercontent.com/61466065/109458321-96d7e300-7a82-11eb-97eb-e763e7391a21.png)
