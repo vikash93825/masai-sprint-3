@@ -14,7 +14,7 @@ function handleForm() {
 
     //console.log(difficulty)
 
-    window.location = `file:///home/vikash/Desktop/DS-3/quiz.html?amount=${no_of_question}&category=${category}&difficulty=${difficulty}`
+    window.location = `file:///home/vikash/Masai-School/masai-sprint-3/quiz.html?amount=${no_of_question}&category=${category}&difficulty=${difficulty}`
 }
 
 
