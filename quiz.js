@@ -16,7 +16,6 @@ window.addEventListener('load', function () {
             category.textContent = response['results'][0]['category']
         }
     }
-
 })
 
 var currentQuestion = 0;
