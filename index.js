@@ -12,5 +12,5 @@ function handleForm() {
     var category = form.get('category');
     var difficulty = form.get('difficulty')
     //console.log(difficulty)
-    window.location = `/home/vikash/Masai-School/masai-sprint-3/quiz.html?amount=${no_of_question}&category=${category}&difficulty=${difficulty}`
+    window.location = `quiz.html?amount=${no_of_question}&category=${category}&difficulty=${difficulty}`
 }
